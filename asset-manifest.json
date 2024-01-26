@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ali-Khalaf/static/css/main.b558b57f.css",
+    "main.css": "/ali-Khalaf/static/css/main.0fdd21e1.css",
     "main.js": "/ali-Khalaf/static/js/main.3266332f.js",
     "index.html": "/ali-Khalaf/index.html",
-    "main.b558b57f.css.map": "/ali-Khalaf/static/css/main.b558b57f.css.map",
+    "main.0fdd21e1.css.map": "/ali-Khalaf/static/css/main.0fdd21e1.css.map",
     "main.3266332f.js.map": "/ali-Khalaf/static/js/main.3266332f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b558b57f.css",
+    "static/css/main.0fdd21e1.css",
     "static/js/main.3266332f.js"
   ]
 }
