@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/ali-Khalaf/static/css/main.e3a62357.css",
-    "main.js": "/ali-Khalaf/static/js/main.0a1db8c9.js",
-    "static/media/1.webp": "/ali-Khalaf/static/media/1.8b82dc741c70068abafd.webp",
+    "main.css": "/ali-Khalaf/static/css/main.71f8750b.css",
+    "main.js": "/ali-Khalaf/static/js/main.1b141daf.js",
+    "static/media/2.webp": "/ali-Khalaf/static/media/2.daffeb2a07f4079e2d21.webp",
+    "static/media/1.webp": "/ali-Khalaf/static/media/1.3b36fcd36a621522f39a.webp",
     "index.html": "/ali-Khalaf/index.html",
-    "main.e3a62357.css.map": "/ali-Khalaf/static/css/main.e3a62357.css.map",
-    "main.0a1db8c9.js.map": "/ali-Khalaf/static/js/main.0a1db8c9.js.map"
+    "main.71f8750b.css.map": "/ali-Khalaf/static/css/main.71f8750b.css.map",
+    "main.1b141daf.js.map": "/ali-Khalaf/static/js/main.1b141daf.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3a62357.css",
-    "static/js/main.0a1db8c9.js"
+    "static/css/main.71f8750b.css",
+    "static/js/main.1b141daf.js"
   ]
 }
